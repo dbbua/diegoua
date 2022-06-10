@@ -1,0 +1,15 @@
+  PID TTY           TIME CMD
+30147 ttys000    0:00.02 login -fp dbbua
+30148 ttys000    0:00.03 -zsh
+30160 ttys000    0:00.15 ssh uase@200.40.23.182
+30731 ttys001    0:00.02 login -fp dbbua
+30732 ttys001    0:00.22 -zsh
+30492 ttys002    0:00.01 login -fp dbbua
+30493 ttys002    0:00.02 -zsh
+30503 ttys002    0:00.12 ssh root@200.40.23.80
+30823 ttys003    0:00.02 login -fp dbbua
+30824 ttys003    0:00.02 -zsh
+30833 ttys003    0:43.13 ssh -Y dbadano@172.20.1.137
+34914 ttys004    0:00.02 login -fp dbbua
+34915 ttys004    0:00.14 -zsh
+35672 ttys004    0:00.00 ps -a
